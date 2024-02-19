@@ -1,0 +1,12 @@
+D:\CSharp\DoAnVer3\GUI\BUS\bin\Debug\BUS.dll
+D:\CSharp\DoAnVer3\GUI\BUS\bin\Debug\BUS.pdb
+D:\CSharp\DoAnVer3\GUI\BUS\bin\Debug\DAL.dll
+D:\CSharp\DoAnVer3\GUI\BUS\bin\Debug\DTO.dll
+D:\CSharp\DoAnVer3\GUI\BUS\bin\Debug\DAL.pdb
+D:\CSharp\DoAnVer3\GUI\BUS\bin\Debug\DTO.pdb
+D:\CSharp\DoAnVer3\GUI\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CSharp\DoAnVer3\GUI\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CSharp\DoAnVer3\GUI\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CSharp\DoAnVer3\GUI\BUS\obj\Debug\BUS.dll
+D:\CSharp\DoAnVer3\GUI\BUS\obj\Debug\BUS.pdb
+D:\CSharp\DoAnVer3\GUI\BUS\bin\Debug\Guna.UI2.dll

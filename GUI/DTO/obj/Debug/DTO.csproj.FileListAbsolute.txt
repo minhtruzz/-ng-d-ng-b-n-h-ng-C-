@@ -1,0 +1,8 @@
+D:\CSharp\DoAnVer3\GUI\DTO\bin\Debug\DTO.dll
+D:\CSharp\DoAnVer3\GUI\DTO\bin\Debug\DTO.pdb
+D:\CSharp\DoAnVer3\GUI\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CSharp\DoAnVer3\GUI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CSharp\DoAnVer3\GUI\DTO\obj\Debug\DTO.dll
+D:\CSharp\DoAnVer3\GUI\DTO\obj\Debug\DTO.pdb
+D:\CSharp\DoAnVer3\GUI\DTO\bin\Debug\Guna.UI2.dll
+D:\CSharp\DoAnVer3\GUI\DTO\obj\Debug\DTO.csproj.CopyComplete

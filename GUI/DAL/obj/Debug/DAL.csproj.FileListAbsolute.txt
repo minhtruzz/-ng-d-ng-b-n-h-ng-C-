@@ -1,0 +1,10 @@
+D:\CSharp\DoAnVer3\GUI\DAL\bin\Debug\DAL.dll
+D:\CSharp\DoAnVer3\GUI\DAL\bin\Debug\DAL.pdb
+D:\CSharp\DoAnVer3\GUI\DAL\bin\Debug\DTO.dll
+D:\CSharp\DoAnVer3\GUI\DAL\bin\Debug\DTO.pdb
+D:\CSharp\DoAnVer3\GUI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CSharp\DoAnVer3\GUI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CSharp\DoAnVer3\GUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\CSharp\DoAnVer3\GUI\DAL\obj\Debug\DAL.dll
+D:\CSharp\DoAnVer3\GUI\DAL\obj\Debug\DAL.pdb
+D:\CSharp\DoAnVer3\GUI\DAL\bin\Debug\Guna.UI2.dll
